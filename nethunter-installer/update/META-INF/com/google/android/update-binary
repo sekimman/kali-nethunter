@@ -256,6 +256,11 @@ progress 0.7
 	install "/data/local" 0755 0644
 }
 
+[ -d data/local/nhscripts ] && {
+	print "Copying helper scripts to /data/local/nhscripts"
+	install "/data/local/nhscripts" 0755 0755
+}
+
 [ -d system/etc/init.d ] && {
 	print "Installing init.d scripts"
 	install "/system/etc/init.d" 0755 0755
