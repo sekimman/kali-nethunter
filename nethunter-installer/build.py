@@ -26,7 +26,7 @@ dl_apps = {
 	'Drivedroid':
 		['https://drivedroid-versions.s3-eu-west-1.amazonaws.com/files/drivedroid-free-0.10.50.apk', '455354369d34dd59cdf71e50c02fd1dc969925f803fbc1c498467ac1b3b50b7a3b23dd22a3e60a5dbe61d7106c99106f92ef6a86c56775f01e42dfcd1837c198'],
 	'OpenVPN':
-		['https://f-droid.org/repo/de.blinkt.openvpn_159.apk', 'a47200c972a6e98649f6a8f87e02c5b924b1c7915ef86698f1339a1ec82af3eab82e7ecf442a3b2f5ab5ded91b59b0943315133413b50a2c473d5f9ba8050695'],
+		['https://f-droid.org/repo/de.blinkt.openvpn_160.apk', '1a3bfc12b1ea396aceaebeaf6136d64989cd06b276022d4c60150ef4622102bd285436cc260f206c5a09e469e52fab55c022fa07b7a7f5c9143011a567a9f309'],
 	'USBKeyboard': # Feb 3, 2015
 		['https://github.com/pelya/android-keyboard-gadget/raw/7ea69c684aa1/USB-Keyboard.apk', '18bced7b339a67c48fe31698cb54063bce8f3dd9f7d7f23d9e5c619697e8da5ab08312cf9a2fa0e3f445a584485db23d1e4c27e3ffc1448551bbaf486ccb11e9'],
 	'RFAnalyzer':
